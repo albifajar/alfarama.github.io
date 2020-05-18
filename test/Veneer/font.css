@@ -2,7 +2,7 @@
   font-family: 'Veneer';
   src: url('Veneer.eot');
   src: url('Veneer.eot?#iefix') format('embedded-opentype'),
-       url('Veneer.svg#Veneer') format('svg')
+       url('Veneer.svg#Veneer') format('svg');
   font-weight: normal;
   font-style: normal;
 }
