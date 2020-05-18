@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Veneer';
+  src: url('Veneer.eot');
+  src: url('Veneer.eot?#iefix') format('embedded-opentype'),
+       url('Veneer.svg#Veneer') format('svg'),
+       url('Veneer.otf') format('opentype'),
+       url('Veneer.ttf') format('truetype'),
+       url('Veneer.woff') format('woff'),
+       url('Veneer.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
